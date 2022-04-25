@@ -1,0 +1,29 @@
+"",,Čistý nejlepší odhad,
+"",,(bez zajištění / zvláštní,Čisté předepsané pojistné
+"",,účelové jednotky),(bez zajištění)
+"",,a technické rezervy,za posledních 12 měsíců
+"",,vypočítané jako celek,
+"",,C0030,C0040
+Pojištění léčebných výloh a proporcionální zajištění,R0020,8 365,192 403
+Pojištění ochrany příjmu a proporcionální zajištění,R0030,429 625,3 791 949
+Pojištění odpovědnosti zaměstnavatele za škodu při pracovním úrazu nebo nemoci z povolání a proporcionální zajištění,R0040,0,0
+"Pojištění odpovědnosti za škodu z provozu motorových vozidel, vč. proporcionální zajištění",R0050,3 171 551,2 390 015
+Ostatní pojištění motorových vozidel a proporcionálního zajištění,R0060,1 316 666,4 459 023
+Pojištění námořní a letecké dopravy a pojištění přepravy a proporcionální zajištění,R0070,11 492,65 946
+Pojištění pro případ požáru a jiných škod na majetku a proporcionální zajištění,R0080,2 066 050,4 352 732
+Obecné pojištění odpovědnosti a proporcionální zajištění,R0090,2 015 868,2 000 229
+Pojištění úvěrů a záruk (kaucí) a proporcionální zajištění,R0100,617,29
+Pojištění právní ochrany a proporcionální zajištění,R0110,920,42 021
+Asistence a proporcionální zajištění,R0120,135 282,329 364
+Pojištění různých finančních ztrát a proporcionální zajištění,R0130,67 570,103 886
+Neproporcionální zdravotní zajištění,R0140,0,0
+Neproporcionální zajištění pojištění odpovědnosti,R0150,0,0
+Neproporcionální zajištění námořní a letecké dopravy a přepravy,R0160,0,0
+Neproporcionální zajištění majetku,R0170,0,0
+"",,Neživotní pojištění,Životní pojištění
+"",,"MCR (NP, NP)","MCR (NP, ŽP)"
+"",,výsledek,výsledek
+"",,C0070,C0080
+Lineární složka vzorce pro závazky,,,
+"",R0200,0,1 419 915
+z životního pojištění a zajištění,,,
